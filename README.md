@@ -5,7 +5,7 @@ So I'm sorry if it's hard to read.
 I'll add an English self-introduction next time.
 
 - 🔭 愛用プログラミング言語：HTML, CSS, JavaScript, Python, Unity, Java, C#
-- 🌱 C#, PHP, C++, Unityx
+- 🌱 C#, PHP, C++, Unity
 - 📫 お問合せ先：GMail：nezuu.mail@gmail.com  Twitter:@nezuu_official
 - 😄 代名詞：ねず～、ねずみ
 - ⚡ 面白い事実: 実はnezuuの由来は「ねず～」を中学生のとき直訳した結果でなのである。
