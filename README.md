@@ -1,16 +1,13 @@
 ### Hi there 👋
+### I'm nezuu. And I'm Japanese. So I often use Japanese, my native language, a lot.
+From here on, I will write in Japanese.
+So I'm sorry if it's hard to read.
+I'll add an English self-introduction next time.
 
-<!--
-**nezuu2/nezuu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 愛用プログラミング言語：HTML, CSS, JavaScript, Python, Unity, Java, C#
+- 🌱 C#, PHP, C++, Unityx
+- 📫 お問合せ先：GMail：nezuu.mail@gmail.com  Twitter:@nezuu_official
+- 😄 代名詞：ねず～、ねずみ
+- ⚡ 面白い事実: 実はnezuuの由来は「ねず～」を中学生のとき直訳した結果でなのである。
+　　　　　　　　　そして実はねず～はねずみという設定なのである。だが人間という設定でも同時にあるため、
+         　　　　ねずみと人間が混同し、半鼠半人になっているという小ネタがあるのだ。
